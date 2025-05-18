@@ -1,1 +1,3 @@
 # digital-clock-and-timer-java
+
+Creating a digital clock and a countdown timer in java...
